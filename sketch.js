@@ -7,8 +7,6 @@ function setup() {
 
   strokeWeight(10);
   //noFill();
-
-
 }
 
 function draw() {
